@@ -56,7 +56,7 @@ https://github.com/phraktle/histodiff/releases/download/v0.1/histodiff-0.1.jar
 Or build from source:
 
 ```
-git clone https://github.com/phraktle/histodiff.git
+git clone https://github.com/jsteinich/histodiff.git
 cd histodiff
 gradlew jar
 cp build/libs/histodiff-0.1.jar ~/bin/histodiff.jar
